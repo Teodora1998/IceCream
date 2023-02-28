@@ -1,7 +1,7 @@
 /* About section */
 .about-container {
   background-color: var(--bg-color);
-  background-image: url(/src/images/how-its-made/sectionbg480.png);
+  background-image: url("/src/images/how-its-made/sectionbg480.png");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: 30% 70%;
@@ -17,7 +17,7 @@
 
 @media screen and (min-width: 1280px) {
   .about-section {
-    background-image: url(/src/images/how-its-made/sectionbg1280.png);
+    background-image: url("/src/images/how-its-made/sectionbg1280.png");
     background-position: 40% 80%;
   }
 }

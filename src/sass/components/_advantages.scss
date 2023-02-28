@@ -58,6 +58,7 @@
   display: block;
   justify-content: space-evenly;
   padding-bottom: 20px;
+  padding-left: 20px;
 }
 
 @media screen and (min-width: 768px) {
@@ -113,7 +114,7 @@
   height: 50px;
   width: 44px;
   top: -66px;
-  left: -5px;
+  left: 10px;
   background-image: url("/src/images/how-its-made/image1.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -137,7 +138,7 @@
   height: 50px;
   width: 44px;
   top: -66px;
-  left: -5px;
+  left: 10px;
   background-image: url("/src/images/how-its-made/image2.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -161,7 +162,7 @@
   height: 50px;
   width: 44px;
   top: -66px;
-  left: -5px;
+  left: 10px;
   background-image: url("/src/images/how-its-made/image3.png");
   background-repeat: no-repeat;
   background-size: cover;
