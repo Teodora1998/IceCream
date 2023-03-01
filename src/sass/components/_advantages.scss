@@ -116,7 +116,7 @@
   top: -66px;
   left: 10px;
   background-image: url("/src/images/how-its-made/image1.png");
-
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -139,8 +139,8 @@
   width: 44px;
   top: -66px;
   left: 10px;
-  background-image: url("src/images/how-its-made/image2.png");
-
+  background-image: url(/src/images/how-its-made/image2.png);
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -164,7 +164,7 @@
   top: -66px;
   left: 10px;
   background-image: url("/src/images/how-its-made/image3.png");
-
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
